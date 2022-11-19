@@ -694,6 +694,9 @@ address {
   letter-spacing: 0.03em;
   color: var(--color-text);
 }
+.modal-checkbox-link {
+  color: var(--color-link);
+}
 .modal-button {
   display: flex;
   font-family: inherit;
